@@ -1,0 +1,3 @@
+# Exercise 3, running the command sed -i.bu 's/before/after/g' third-exercise.txt
+This line is after running the sed command
+
